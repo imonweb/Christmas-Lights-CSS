@@ -2,3 +2,8 @@
 /*  Project: Christmas Lights CSS  */
 /*  File: Style.css 			  */
 /***********************************************************************************************/
+
+body {
+	font-family: arial, sans-serif;
+	font-size: 16px;
+}
